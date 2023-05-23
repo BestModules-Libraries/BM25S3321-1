@@ -1,0 +1,25 @@
+##############################################
+# Coloring Map For BM25S3321-1
+##############################################
+##############################################
+# Classes and Objects (KEYWORD1)
+##############################################
+BM25S3321_1	KEYWORD1         
+##############################################
+# Methods and Functions (KEYWORD2)
+##############################################
+begin	KEYWORD2
+preheatCountdown	KEYWORD2
+readCO2Value	KEYWORD2
+calibrateZeroPoint	KEYWORD2
+calibrateCO2Value	KEYWORD2
+setRangeMax	KEYWORD2
+setAutoCalibration	KEYWORD2
+setAutoCalibrationCycle	KEYWORD2
+##############################################
+# Constants (LITERAL1)
+##############################################
+BAUDRATE	LITERAL1
+CHECK_OK	LITERAL1
+CHECK_ERROR	LITERAL1
+TIMEOUT_ERROR	LITERAL1
