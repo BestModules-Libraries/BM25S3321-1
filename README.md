@@ -1,15 +1,15 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMV23M001_V1.0.png" width="160" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BM25S3321-1_BME58M332_V1.0.png" width="480" height="240"> 
 </div> 
 
 
-BMV23M001
+BM25S3321-1
 ===========================================================
 
-The BMV23M001 is a sound detection module launched by Basetron, which uses I2C communication method.This document describes the Arduino Lib function and Arduino Lib installation method of BMV23M001. The sample demonstrates the state of getting ambient sounds.
+The BM25S3321-1 is a is a CO2 detection digital module launched by Flextron, which uses UART communication method.This document describes the Arduino Lib functions and Arduino Lib installation methods of the BM25S3321-1. Examples demonstrate the ability to configure module parameters and read CO2 concentration.
 
 
-This library can be installed via the Arduino Library manager. Search for **BMV23M001**. 
+This library can be installed via the Arduino Library manager. Search for **BM25S3321-1**. 
 
 Repository Contents
 -------------------
@@ -22,7 +22,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMV23M001 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmv23m001.html#tab-product2 )** - Arduino Library Description.
+* **[BM25S3321-1 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bm25s3321-1.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
