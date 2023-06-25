@@ -6,15 +6,15 @@
 BM25S3321-1
 ===========================================================
 
-The BM25S3321-1 is a is a CO2 detection digital module launched by Flextron, which uses UART communication method.This document describes the Arduino Lib functions and Arduino Lib installation methods of the BM25S3321-1. Examples demonstrate the ability to configure module parameters and read CO2 concentration.
+The BM25S3321-1 is a CO2 detector digital module from Best Modules, which uses the UART communication method. This document provides the description of the BM25S3321-1 Arduino Lib functions and how to install the Arduino Lib. The example demonstrate the functions of configure module parameter and CO2 concentration read.
 
 #### Applicable types:
 <div align=center>
 
 |Part No.   |Description                   |
 |:---------:|:----------------------------:|
-|BM25S3321-1   | CO2 detection digital module|
-|BME58M332  | CO2 detection digital module|
+|BM25S3321-1   | CO2 Detector Digital Module|
+|BME58M332  | On-board BM25S3321-1 Module|
 
 </div> 
 
